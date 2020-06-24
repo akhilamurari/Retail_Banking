@@ -5,6 +5,6 @@ Common retail banking services include checking and savings accounts, mortgages,
 1.install "POSTGRESQL" for relation data base(backend).        (it is used to run code without errors).
    should be installed and config it from banking/config.py this is used to add tables to postgresql.
 
-2.install BCrypt,wt_forms,flask,flash, url_for, session, redirect, request which are required by code.\n
+2.install BCrypt,wt_forms,flask,flash, url_for, session, redirect, request which are required by code.
 
 3. Setup venv(virtual envinonment).
